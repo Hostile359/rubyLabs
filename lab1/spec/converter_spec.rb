@@ -1,4 +1,4 @@
-require '../lib/converter'
+require './lib/converter'
 
 RSpec.describe Converter do
   describe '#converter' do
