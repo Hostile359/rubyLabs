@@ -20,5 +20,5 @@ jobs:
       - name: RSpec lab1
         run: cd lab1/ && bundle exec rspec
       - name: RSpec lab2
-          run: cd lab2/ && bundle exec rspec
+        run: cd lab2/ && bundle exec rspec
 
